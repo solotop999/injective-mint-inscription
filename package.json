@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@injectivelabs/sdk-ts": "^1.14.4"
+  }
+}
