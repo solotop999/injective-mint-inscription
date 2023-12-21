@@ -1,4 +1,16 @@
 {
+  "name": "injective-mint-inscription",
+  "version": "1.0.0",
+  "description": "auto mint injs-20 #Inscription with typescript",
+  "main": "start.ts",
+  "scripts": {
+    "start": "ts-node start.ts"
+  },
+  "author": "Solotop999",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "10.7.0"
+  },
   "dependencies": {
     "@injectivelabs/sdk-ts": "^1.14.4"
   }
